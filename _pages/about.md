@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://www.gmu.edu/'>George Mason University</a>. Fairfax.
+subtitle: <a href='https://www.gmu.edu/'>George Mason University</a>, Virginia.
 
 profile:
   align: right
