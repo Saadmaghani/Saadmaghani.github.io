@@ -23,7 +23,8 @@ announcements:
 
 ---
 
-Hi! I'm Saad, a 4th year PhD student at George Mason University. I work in the [RobotiXX Lab](https://robotixx.cs.gmu.edu/) under the supervision of [Dr. Xuesu Xiao](https://people.cs.gmu.edu/~xiao/). My research focuses on Self-supervised learning for motion planning in dynamic environments. 
+I'm Saad, a 4th year PhD student at George Mason University. I work at the [RobotiXX Lab](https://robotixx.cs.gmu.edu/) under the supervision of [Dr. Xuesu Xiao](https://people.cs.gmu.edu/~xiao/). My research focuses on Self-supervised learning for motion planning in dynamic environments. 
+
 
 
 
