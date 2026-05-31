@@ -15,3 +15,5 @@ Major changes:
 
 1. No python startup script. Everything is either a ROS2 node or handled by a ROS2 python launch script.
 2. Uses Gazebo Harmonic rather than Classic Gazebo.
+
+For more information, see {%cite xiao2026autonomous}.
