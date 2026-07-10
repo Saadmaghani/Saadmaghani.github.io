@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-07-03'
+  last_updated: '2026-07-10'
 papers:
   zEMp3CoAAAAJ:9ZlFYXVOiuMC:
     citations: 0
@@ -9,8 +9,12 @@ papers:
     citations: 0
     title: Optimizing Dynamic Learning from Learned Hallucination (Dyna-LfLH) using a Transformer-based Motion Planner for Agile Navigation in Dynamic Environments
     year: '2025'
-  zEMp3CoAAAAJ:mVmsd5A6BfQC:
+  zEMp3CoAAAAJ:dhFuZR0502QC:
     citations: 0
+    title: 'Autonomous Ground Navigation in Highly Constrained Spaces: Lessons Learned from the Fifth BARN Challenge at ICRA 2026'
+    year: Unknown Year
+  zEMp3CoAAAAJ:mVmsd5A6BfQC:
+    citations: 1
     title: Autonomous Ground Navigation in Highly Constrained Spaces
     year: '2026'
   zEMp3CoAAAAJ:u5HHmVD_uO8C:
