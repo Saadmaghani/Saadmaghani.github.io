@@ -1,6 +1,10 @@
 metadata:
-  last_updated: '2026-07-10'
+  last_updated: '2026-08-21'
 papers:
+  zEMp3CoAAAAJ:7PzlFSSx8tAC:
+    citations: 0
+    title: 'Failing Gracefully: Mitigating Impact of Inevitable Robot Failures'
+    year: '2026'
   zEMp3CoAAAAJ:9ZlFYXVOiuMC:
     citations: 0
     title: Learning from Hallucinating Critical Points for Navigation in Dynamic Environments
@@ -14,10 +18,10 @@ papers:
     title: 'Autonomous Ground Navigation in Highly Constrained Spaces: Lessons Learned from the Fifth BARN Challenge at ICRA 2026'
     year: Unknown Year
   zEMp3CoAAAAJ:mVmsd5A6BfQC:
-    citations: 1
+    citations: 2
     title: Autonomous Ground Navigation in Highly Constrained Spaces
     year: '2026'
   zEMp3CoAAAAJ:u5HHmVD_uO8C:
-    citations: 5
+    citations: 7
     title: 'Dyna-lflh: Learning agile navigation in dynamic environments from learned hallucination'
     year: '2025'
